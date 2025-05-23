@@ -1,3 +1,5 @@
 lst20/
 ner_model/
 ner_model_final/
+ner_finetuned_model/
+ner_finetuned_model_final/
